@@ -35,3 +35,30 @@ Unix:
 ## Using the application
 
 `python main.py`
+
+
+
+# Git commands
+
+Initialize Git repo
+
+`git init`
+
+Add changes
+`git add -A`
+
+Commit changes
+
+`git commit -m "message"`
+
+
+Push to remote
+
+First: Set up remote repository in Github
+
+`git push origin main`
+
+or
+
+`git push`
+
